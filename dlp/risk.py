@@ -18,7 +18,9 @@ from __future__ import print_function
 
 import argparse
 
-
+# Hi there
+#
+#
 # [START dlp_numerical_stats]
 def numerical_risk_analysis(
     project,
